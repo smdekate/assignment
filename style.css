@@ -9,8 +9,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 50px;
-    height: 100px;
+    padding: 50px 50px 0px 50px;
 }
 
 .header-links {
@@ -36,14 +35,14 @@ body {
 }
 
 .btn-white {
-    font-size: 16px;
+    font-size: 17px;
     border: 1px solid #18A0FB;
     border-radius: 5px;
     width: 130px;
     background-color: #fff;
     color: #18A0FB;
     height: 40px;
-    padding: 5px;
+    padding: 10px 20px;
 }
 
 .btn-white:hover {
@@ -52,14 +51,14 @@ body {
 }
 
 .btn-blue {
-    font-size: 16px;
+    font-size: 17px;
     border: 1px solid #18A0FB;
     border-radius: 5px;
     width: 130px;
     background-color: #18A0FB;
     color: #fff;
     height: 40px;
-    padding: 5px;
+    padding: 10px 20px;
 }
 
 .btn-blue:hover {
@@ -88,3 +87,29 @@ body {
 /* Hero Section CSS end */
 
 /******************************************************************************************/
+
+/* Section1 div */
+
+.section1 {
+    padding: 100px 50px;
+}
+
+.section1-title {
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.section1 > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-card {
+    width: 650px;
+    margin: 50px 0px;
+}
+
+/* Section 1 CSS end */
+
+/*******************************************************************************/
