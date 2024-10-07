@@ -66,3 +66,25 @@ body {
     background-color: #fff;
     color: #18A0FB;
 }
+
+/* Navbar CSS end */
+
+/*******************************************************************************8*/
+/* Hero Section CSS */
+.hero {
+    background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./assets/images/hero-background.png');
+    height: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+.hero-title {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+    padding-top: 370px;
+}
+
+/* Hero Section CSS end */
+
+/******************************************************************************************/
